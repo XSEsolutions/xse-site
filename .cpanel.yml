@@ -1,8 +1,10 @@
 ---
 deployment:
   tasks:
-    # $HOME e a pasta da sua conta no servidor, entao nao precisa escrever o usuario
-    - export DEPLOYPATH=$HOME/public_html
+    # o dominio xsesolutions.com serve esta pasta, nao a public_html
+    - export DEPLOYPATH=$HOME/xsesolutions.com
     - /bin/mkdir -p $DEPLOYPATH/assets/proj
     - /bin/cp -f index.html $DEPLOYPATH/
     - /bin/cp -Rf assets/. $DEPLOYPATH/assets/
+    # pastas 755 e arquivos 644, senao a proxima publicacao trava
+    - /bin/chmod -R u+rwX,go+rX,go-w $DEPLOYPATH
