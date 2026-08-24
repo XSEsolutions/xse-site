@@ -1,0 +1,5 @@
+# nada de temporario ou de sistema vai para o servidor
+Thumbs.db
+desktop.ini
+.DS_Store
+*.zip
