@@ -1,8 +1,8 @@
 ---
 deployment:
   tasks:
-    # troque SEU_USUARIO pelo nome de usuario do seu cPanel
-    - export DEPLOYPATH=/home/SEU_USUARIO/public_html
+    # $HOME e a pasta da sua conta no servidor, entao nao precisa escrever o usuario
+    - export DEPLOYPATH=$HOME/public_html
     - /bin/mkdir -p $DEPLOYPATH/assets/proj
     - /bin/cp -f index.html $DEPLOYPATH/
     - /bin/cp -Rf assets/. $DEPLOYPATH/assets/
