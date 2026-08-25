@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://xsesolutions.com/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/qualidade.jpg</image:loc>
+      <image:title>Controle dimensional e inspeção de spool na XSE Solutions</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/proj/weldshop-8.jpg</image:loc>
+      <image:title>Módulo Weld Shop fabricado pela XSE Solutions</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/proj/spools-3.jpg</image:loc>
+      <image:title>Spools de tubulação flangeados prontos para embarque</image:title>
+    </image:image>
+  </url>
+</urlset>

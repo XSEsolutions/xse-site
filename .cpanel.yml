@@ -5,6 +5,9 @@ deployment:
     - export DEPLOYPATH=$HOME/xsesolutions.com
     - /bin/mkdir -p $DEPLOYPATH/assets/proj
     - /bin/cp -f index.html $DEPLOYPATH/
+    - /bin/cp -f robots.txt $DEPLOYPATH/
+    - /bin/cp -f sitemap.xml $DEPLOYPATH/
+    - /bin/cp -f .htaccess $DEPLOYPATH/
     - /bin/cp -Rf assets/. $DEPLOYPATH/assets/
     # pastas 755 e arquivos 644, senao a proxima publicacao trava
     - /bin/chmod -R u+rwX,go+rX,go-w $DEPLOYPATH
