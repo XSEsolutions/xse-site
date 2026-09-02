@@ -3,20 +3,48 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://xsesolutions.com/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://xsesolutions.com/assets/qualidade.jpg</image:loc>
       <image:title>Controle dimensional e inspeção de spool na XSE Solutions</image:title>
+      <image:caption>Inspeção, rastreabilidade e documentação de spool flangeado conforme normas ASME, API e AWS</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/shop-team.jpg</image:loc>
+      <image:title>Fabricação de spools de tubulação na oficina da XSE Solutions em Macaé</image:title>
+      <image:caption>Equipe da XSE Solutions montando spools flangeados no galpão de fabricação</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xsesolutions.com/assets/proj/weldshop-8.jpg</image:loc>
       <image:title>Módulo Weld Shop fabricado pela XSE Solutions</image:title>
+      <image:caption>Estrutura metálica de caldeiraria pesada concluída no pátio</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://xsesolutions.com/assets/proj/spools-3.jpg</image:loc>
       <image:title>Spools de tubulação flangeados prontos para embarque</image:title>
+      <image:caption>Spools pintados e identificados aguardando liberação para embarque offshore</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/offshore-corda.jpg</image:loc>
+      <image:title>Montagem offshore da XSE Solutions em plataforma</image:title>
+      <image:caption>Técnicos em acesso por corda durante intervenção em tubulação de plataforma</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/proj/hidro-2.jpg</image:loc>
+      <image:title>Teste hidrostático de linha executado pela XSE Solutions</image:title>
+      <image:caption>Linha montada com flanges cegos para verificação de estanqueidade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/valvula.jpg</image:loc>
+      <image:title>Válvula borboleta flangeada em sistema de tubulação</image:title>
+      <image:caption>Manutenção e reparo de conexões e válvulas industriais de alta vedação</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://xsesolutions.com/assets/equipe-embarque.jpg</image:loc>
+      <image:title>Mão de obra técnica da XSE Solutions antes do embarque</image:title>
+      <image:caption>Equipe qualificada para atuação offshore e onshore em óleo e gás</image:caption>
     </image:image>
   </url>
 </urlset>
